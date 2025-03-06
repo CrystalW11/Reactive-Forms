@@ -1,0 +1,61 @@
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.container {
+  margin: auto;
+  height: 800px;
+  width: 800px;
+  padding: 10%;
+}
+
+.label-name {
+      font-size: x-large;
+      font-weight: 500;
+      color: blueviolet;
+}
+.label {
+    padding: 2%;
+    margin: 10px;
+    border-radius: 10px;
+    font-weight: 500;
+    color: blueviolet;
+    font-size: x-large;
+}
+
+.user {
+    margin: auto;
+    font-size: x-large;
+    font-weight: 500;
+    color: blueviolet;
+    padding: 10%;
+}
+
+.errors {
+  color: red;
+  font-size: x-large;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.btn {
+  width: 50%;
+  height: 50%;
+  background-color: blueviolet;
+}
+
+
+
+
+h1 {
+  font-weight: bolder;
+  font-style: oblique;
+  color: black;
+}
+
+
+
